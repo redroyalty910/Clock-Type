@@ -1,1 +1,1 @@
-# ClockType 211
+"Clock Program" was a lab project I completed on June 11th, 2024. The goal of this project was to implement and manipulate a clock using C++ classes. This program simulates a 24-hour clock system with functionalities to set, retrieve, and compare time, as well as increment time by seconds, minutes, or hours.
